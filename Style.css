@@ -348,6 +348,8 @@ section {
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
+  /* width: auto;
+  height: 500px; */
   justify-content: space-around;
 }
 
